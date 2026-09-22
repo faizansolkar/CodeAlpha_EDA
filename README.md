@@ -1,90 +1,141 @@
-# Shopping Sales – Data Cleaning and Exploratory Data Analysis (EDA)
+# Shopping Sales – Data Analysis
 
+## About the Project
 
-## Project Overview
+This project is based on a **Shopping Sales dataset**. The main purpose of this project is to understand the sales data, clean the dataset, perform Exploratory Data Analysis (EDA), and create visualizations to find useful patterns and insights.
 
-This project focuses on **Data Cleaning and Exploratory Data Analysis (EDA)** using Python. The main goal is to clean the dataset, understand its structure, identify data issues, and find meaningful patterns and insights.
+This project covers **CodeAlpha Task 2 – Exploratory Data Analysis (EDA)** and **CodeAlpha Task 3 – Data Visualization**.
 
-This project is completed as **Task 2 – Exploratory Data Analysis (EDA)** for the CodeAlpha Data Analytics Internship.
+---
 
-## Objectives
+## Tasks Covered
 
-* Clean and prepare the dataset
-* Understand the structure of the data
-* Check variables and data types
-* Identify missing and duplicate values
-* Perform basic statistical analysis
-* Identify trends and patterns
-* Detect unusual or inconsistent data
-* Generate meaningful insights
+### Task 2 – Exploratory Data Analysis (EDA)
 
-## Tools & Technologies
+In this task, I explored the Shopping Sales dataset to understand its structure, variables, and important patterns.
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+### Data Cleaning
 
-## Project Workflow
+Before performing analysis, I prepared and cleaned the dataset.
 
-### 1. Data Loading
-
-The dataset was loaded into Python using Pandas.
-
-### 2. Data Cleaning
-
+* Checked the dataset structure
 * Checked rows and columns
 * Checked missing values
 * Checked duplicate values
 * Checked data types
-* Removed unnecessary data where required
+* Converted data into suitable formats
+* Removed unnecessary data
 * Prepared the dataset for analysis
 
-### 3. Exploratory Data Analysis
+### Exploratory Data Analysis
 
-The cleaned dataset was explored to understand:
+After cleaning the data, I performed EDA to understand different aspects of the sales data.
 
-* Customer information
-* Age groups
-* Gender
-* State/Location
-* Occupation
-* Product categories
-* Product orders
-* Sales-related patterns
+The analysis includes:
 
-### 4. Statistical Analysis
+* Customer gender analysis
+* Age group analysis
+* State-wise analysis
+* Marital status analysis
+* Occupation analysis
+* Product category analysis
+* Product ID analysis
+* Orders and sales analysis
+* Comparison of different customer groups
+* Identification of useful patterns and insights
 
-Basic statistical analysis was performed to understand the numerical data and identify important patterns and variations.
+---
 
-## Key Insights
+## Task 3 – Data Visualization
 
-The analysis helps to understand:
+In this task, I used different charts and graphs to make the data easier to understand.
 
-* Customer purchasing patterns
-* Customer distribution
-* Popular product categories
-* Sales patterns across different locations
-* Differences in purchasing behaviour
-* Important trends and unusual values
+The visualizations include:
+
+* Gender-wise orders and sales
+* Age group analysis
+* State-wise orders and sales
+* Marital status analysis
+* Occupation-wise analysis
+* Product category analysis
+* Top product analysis
+* Sales and order comparisons
+
+These visualizations helped me understand the data and present the findings in an easy-to-understand way.
+
+---
+
+## Tools and Technologies Used
+
+* **Python**
+* **Pandas**
+* **NumPy**
+* **Matplotlib**
+* **Seaborn**
+* **Jupyter Notebook**
+
+---
+
+## Project Workflow
+
+```text
+Data Collection
+      ↓
+Data Loading
+      ↓
+Data Cleaning
+      ↓
+Exploratory Data Analysis
+      ↓
+Data Visualization
+      ↓
+Finding Patterns and Insights
+      ↓
+Conclusion
+```
+
+---
 
 ## Project Structure
 
 ```text
-Data-Cleaning-and-EDA/
+CodeAlpha_Shopping_EDA/
 │
-├── Data_Cleaning_and_EDA.ipynb
+├── Shopping_Sales_Analysis.ipynb
 ├── Dataset.csv
 └── README.md
 ```
 
+---
+
+## Key Learning
+
+Through this project, I learned how to:
+
+* Work with a real-world dataset
+* Clean and prepare data for analysis
+* Handle missing and duplicate values
+* Understand different variables in a dataset
+* Perform Exploratory Data Analysis
+* Use Pandas and NumPy for data analysis
+* Create charts using Matplotlib and Seaborn
+* Find patterns and insights from sales data
+* Present analytical findings using visualizations
+
+---
+
 ## Conclusion
 
-This project helped me understand the process of **data cleaning and exploratory data analysis**, from preparing raw data to exploring the dataset and finding meaningful insights.
+This project helped me understand the complete process of **Data Cleaning, Exploratory Data Analysis, and Data Visualization** using Python.
+
+By analyzing the Shopping Sales dataset, I was able to explore customer and sales-related information, identify useful patterns, and represent the findings through different visualizations.
+
+---
 
 ## Author
 
 **Faizan Solkar**
 
+
+**GitHub Repository:**
+[https://github.com/faizansolkar/CodeAlpha_Shopping_EDA](https://github.com/faizansolkar/CodeAlpha_Shopping_EDA)
