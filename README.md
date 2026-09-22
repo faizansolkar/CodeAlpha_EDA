@@ -1,5 +1,7 @@
 # Data Cleaning and Exploratory Data Analysis
 
+Title : Shopping sales
+
 ## Project Overview
 
 This project focuses on **Data Cleaning and Exploratory Data Analysis (EDA)** using Python. The main goal is to clean the dataset, understand its structure, identify data issues, and find meaningful patterns and insights.
