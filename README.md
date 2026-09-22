@@ -1,6 +1,5 @@
-# Data Cleaning and Exploratory Data Analysis
+# Shopping Sales – Data Cleaning and Exploratory Data Analysis (EDA)
 
-Title : Shopping sales
 
 ## Project Overview
 
